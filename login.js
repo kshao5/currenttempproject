@@ -4,4 +4,5 @@ aaaa
 bbb
 cccccc
 ddddd
-Today is Wednesday
+Today is Thursday
+Today is Friday
