@@ -4,5 +4,5 @@ aaaa
 bbb
 cccccc
 ddddd
-Today is Saturday
+My friend is now working
 Today is Friday
